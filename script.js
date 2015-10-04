@@ -1,3 +1,8 @@
+/*
+Code Author: Anthony Peruzzo, Laurel True-McCarthy, Xianning Cui, RJ Goetz, Samantha Nissen, T Jay Carter, Lisa Wolfson, Leah Bateman, Jenna Murphy
+Modified by: Kelly Horigan
+*/
+
 //For readability and clarity it is good practice to declare variables at the beginning of the JS document if possible
 var churchillSpeech = {
       'author': 'Churchill',
